@@ -93,7 +93,7 @@
      {"protocol": "dns", "action": "hijack-dns"},
      {"clash_mode": "direct", "outbound": "🎯 全球直连"},
      {"clash_mode": "global", "outbound": "GLOBAL"},
-     {"domain": ["clash.razord.top", "yacd.metacubex.one", "yacd.haishan.me", "d.metacubex.one"], "outbound": "🎯 全球直连"},
+     {"domain": ["clash.razord.top", "yacd.metacubex.one", "yacd.haishan.me", "d.metacubex.one", "emby.xiaoya.pro", "emby.xiaoya.pro", "icyou.eu.org", "emby.8.net.co", "emby.raydoom.tk", "embyxiaoya.laogl.top", "emby-data.poxi1221.eu.org", "emby-data.bdbd.fun", "emby-data.ymschh.top", "emby-data.r2s.site", "emby-data.neversay.eu.org", "emby-data.800686.xyz", "emby-data.xn--yetq23gxma.org", "emby-data.younv.at", "emby.kaiserver.uk", "emby-data.ermaokj.cn", "emby-data.wwwh.eu.org", "emby-data.f1rst.top", "emby-data.wx1.us.kg", "emby-data.xnn.ee", ], "outbound": "🎯 全球直连"},
      {"rule_set": "geosite-private", "outbound": "🎯 全球直连"},
      {"rule_set": "geosite-chat", "outbound": "🤖 OpenAI"},
      {"rule_set": "geosite-youtube", "outbound": "📹 YouTube"},
